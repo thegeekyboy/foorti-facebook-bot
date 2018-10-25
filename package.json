@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "aws-sdk": "^2.197.0",
+    "axios": "^0.17.1",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "crypto": "^1.0.1",
+    "express": "^4.16.2",
+    "https": "^1.0.0",
+    "mysql": "^2.15.0",
+    "mysql2": "^1.5.2",
+    "sequelize": "^4.33.4",
+    "sharp": "^0.20.0",
+    "socket.io-client": "^2.0.4"
+  },
+  "name": "facebook-bot",
+  "version": "1.0.0",
+  "description": "Facebook bot demo for a friend",
+  "main": "index.js",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1"
+  },
+  "scripts": {
+    "start": "nodemon index.js --exec babel-node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thegeekyboy/facebook-bot.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "nodejs",
+    "facebook",
+    "bot"
+  ],
+  "author": "Amirul Islam",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/thegeekyboy/facebook-bot/issues"
+  },
+  "homepage": "https://github.com/thegeekyboy/facebook-bot#readme"
+}

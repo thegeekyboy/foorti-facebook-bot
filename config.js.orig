@@ -1,0 +1,17 @@
+module.exports.PORT = 5000;
+
+module.exports.ACCESS_TOKEN = ''; // Page Access Token
+
+module.exports.APP_SECRET = '';
+module.exports.VERIFY_TOKEN = '';
+module.exports.API_KEY = '';
+
+module.exports.AWS_ACCESS_KEY_ID = '';
+module.exports.AWS_SECRET_ACCESS_KEY = '';
+
+module.exports.MYSQL_HOST = '';
+module.exports.MYSQL_PORT = 0;
+module.exports.MYSQL_DATABASE = '';
+module.exports.MYSQL_USERNAME = '';
+module.exports.MYSQL_PASSWORD = '';
+

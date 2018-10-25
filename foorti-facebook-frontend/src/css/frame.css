@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Mina');
+
+.wrapper {
+
+	position: relative;
+	padding-top: 100px;
+}
+
+.banner {
+
+	background-color: rgba(0, 0, 0, 0.5);
+	position: fixed;
+
+	top: 0px;
+	left: 0px;
+	height: 80px;
+	width: 100%;
+
+	padding-top: 30px;
+	padding-left: 25px;
+
+	color: white;
+	font-family: 'Mina', sans-serif;
+	font-size: 25px;
+
+	z-index: 99999;
+}
+
+.txtbox {
+
+	font-family: 'Mina', sans-serif;
+	font-weight: 600;
+	font-size: 25px;
+	text-align: center;
+	vertical-align: middle;
+	color: rgb(255, 255, 255);
+}
